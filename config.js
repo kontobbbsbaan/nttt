@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['6283833694338', 'ɏåkµzå м∂ 🍂  ᷦ×͜×', true],
-  ['6283833694338', 'ɏåkµzå м∂ 🍂  ᷦ', true],
+  ['6283833694338', 'ɏåkµzå м∂   ᷦ×͜×', true],
+  ['6283833694338', 'ɏåkµzå м∂   ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = [6283833694338] 
 global.prems = [6283833694338] 
@@ -63,16 +63,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ɏåkµzå м∂ 🍂  ᷦ×͜×'
-global.author = '★ ɏåkµzå м∂ 🍂  ᷦ★'
+global.packname = 'ɏåkµzå м∂   ᷦ×͜×'
+global.author = '★ ɏåkµzå м∂   ᷦ★'
 
-global.wm = '★ ɏåkµzå м∂ 🍂  ᷦ★'
-global.igfg = '★ ɏåkµzå м∂ 🍂  ᷦ★'
+global.wm = '★ ɏåkµzå м∂   ᷦ★'
+global.igfg = '★ ɏåkµzå м∂   ᷦ★'
 global.wait = '*⌛ _ɯαιƚ..._ ▬▬▬▭*'
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg')
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
+global.imagen1 = fs.readFileSync('./Yakuza.jpg')
+global.imagen2 = fs.readFileSync('./Yakuza.jpg')
+global.imagen3 = fs.readFileSync('./Yakuza.jpg')
 
 global.multiplier = 9999 
 
